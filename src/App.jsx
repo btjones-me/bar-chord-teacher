@@ -229,7 +229,8 @@ const AdvancedBarChordGame = () => {
       </h1>
       <div className="mb-4 text-xs text-center">
         <p>
-          A quick app to help you learn the E and A Major Bar Chords, using Claude Artifacts and deployed with Replit in about 20 mins.
+          A quick app to help you learn the E and A Major Bar Chords, using
+          Claude Artifacts and deployed with Replit in about 20 mins.
         </p>
       </div>
       <div className="mb-4">
@@ -283,6 +284,15 @@ const AdvancedBarChordGame = () => {
           </LineChart>
         </ResponsiveContainer>
       </div>
+      <p className="text-xs text-center mb-4">
+        <a
+          href="https://github.com/btjones-me/bar-chord-teacher"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Get in touch <br></br>github.com/btjones-me/bar-chord-teacher
+        </a>
+      </p>
       <AlertDialog open={showResult}>
         <AlertDialogContent>
           <AlertDialogHeader>
