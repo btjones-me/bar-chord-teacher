@@ -1,8 +1,5 @@
-# React + Vite
+# Bar Chord Teacher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A demo repo to show a bar-chord app made with Claude Artifacts and deployed with  [replit](https://replit.com).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For context, end to end took <1 hr, and I haven't written javascript in about 6 years.
